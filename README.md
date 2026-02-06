@@ -48,6 +48,8 @@ O objetivo é demonstrar experiência prática com:
 ### 1. Clonar repositório
 ``bash
 git https://github.com/GabrieldosSantos8/api-chamados.git
+``
+``bash
 cd api-chamados
 ``
 
