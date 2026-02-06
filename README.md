@@ -46,7 +46,29 @@ O objetivo é demonstrar experiência prática com:
 ## ▶️ Como Executar o Projeto
 
 ### 1. Clonar repositório
-
-```bash
+``bash
 git https://github.com/GabrieldosSantos8/api-chamados.git
 cd api-chamados
+``
+
+### 2. Restaurar dependências
+``bash
+dotnet restore
+``
+
+### 3. Configurar o Banco de Dados (Fundamental)
+Como o arquivo de banco de dados é ignorado por segurança, você deve gerar o banco localmente usando as Migrations:
+``Bash
+dotnet ef database update
+``
+(Caso não tenha a ferramenta instalada, use: dotnet tool install --global dotnet-ef)
+
+### 4. Clonar repositório
+``Bash
+dotnet run
+``
+Acesse o Swagger para testar os endpoints: http://localhost:5000/swagger (ou a porta indicada no terminal).
+
+
+
+
