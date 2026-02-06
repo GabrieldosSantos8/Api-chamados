@@ -1,6 +1,6 @@
-# 📌 API de Chamados - Sustentação Bancária (.NET 9)
+# 📌 API de Chamados - Sustentação Financeiras(.NET 9)
 
-Projeto desenvolvido em **C#/.NET 9** simulando um sistema de chamados utilizado em ambientes corporativos e bancários.
+Projeto desenvolvido em **C#/.NET 9** simulando um sistema de chamados utilizado em ambientes corporativos e financeiras.
 
 O objetivo é demonstrar experiência prática com:
 
