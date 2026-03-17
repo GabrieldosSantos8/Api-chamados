@@ -1,4 +1,4 @@
-# 📌 API de Chamados - Sustentação Financeiras(.NET 9)
+#  API de Chamados - Sustentação Financeiras(.NET 9)
 
 Projeto desenvolvido em **C#/.NET 9** simulando um sistema de chamados utilizado em ambientes corporativos e financeiras.
 
@@ -13,7 +13,7 @@ O objetivo é demonstrar experiência prática com:
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - ASP.NET Core Web API (.NET 9)
 - Entity Framework Core
@@ -23,7 +23,7 @@ O objetivo é demonstrar experiência prática com:
 
 ---
 
-## 📌 Funcionalidades
+##  Funcionalidades
 
 ✅ Criar chamado  
 ✅ Listar chamados  
@@ -32,7 +32,7 @@ O objetivo é demonstrar experiência prática com:
 
 ---
 
-## 🔥 Endpoints Disponíveis
+##  Endpoints Disponíveis
 
 | Método | Endpoint              | Descrição              |
 |-------|------------------------|------------------------|
@@ -43,7 +43,7 @@ O objetivo é demonstrar experiência prática com:
 
 ---
 
-## ▶️ Como Executar o Projeto
+##  Como Executar o Projeto
 
 ### 1. Clonar repositório
 ``bash
